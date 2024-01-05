@@ -1,0 +1,13 @@
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+    margin: auto;
+}
+
+#head_link {
+    color: aquamarine;
+    font-size: 16px;
+    margin: auto;
+}
